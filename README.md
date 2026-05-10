@@ -31,3 +31,5 @@ The notebook is organised into clearly documented sections, each with markdown e
 1. Open in Google Colab
 2. Upload the data ZIP file when prompted (or mount Google Drive)
 3. Run all cells in order
+
+> **Note:** Static visualisations render directly on GitHub. The two interactive widgets (built with ipywidgets) require a live kernel to function — open the notebook in Colab or Jupyter to use them.
